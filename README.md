@@ -1,3 +1,6 @@
+![Screenshot 2024-03-12 003822](https://github.com/ArchProtios/Login-React/assets/99127122/a84cc5b8-aec4-457d-b7af-64f90917db22)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
